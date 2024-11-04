@@ -1,0 +1,16 @@
+PARA GUARDAR CAMBIOS EN LA NUBE
+
+-> abrir git bash dentro de la capeta
+
+-> usar git add .
+
+-> usar git commit -m "Nombre de lo que quieras"
+
+-> usar git push -u origin main
+
+
+PARA SINCRONIZAR INFORMACION CON LA NUBE
+
+-> abrir git bash dentro de la capeta
+
+-> usar git pull
